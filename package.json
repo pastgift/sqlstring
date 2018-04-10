@@ -1,7 +1,7 @@
 {
-  "name": "sqlstring",
-  "description": "Simple SQL escape and format for MySQL",
-  "version": "2.3.1",
+  "name": "sqlstring-sqlite",
+  "description": "Simple SQL escape and format for SQLite",
+  "version": "0.1.0",
   "contributors": [
     "Adri Van Houdt <adri.van.houdt@gmail.com>",
     "Douglas Christopher Wilson <doug@somethingdoug.com>",
@@ -15,9 +15,10 @@
     "sqlstring",
     "sql",
     "escape",
-    "sql escape"
+    "sql escape",
+    "sqlite"
   ],
-  "repository": "mysqljs/sqlstring",
+  "repository": "mysqljs/sqlstring-sqlite",
   "devDependencies": {
     "beautify-benchmark": "0.2.4",
     "benchmark": "2.1.4",
