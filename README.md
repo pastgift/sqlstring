@@ -5,6 +5,12 @@ A SQLite version of `mysqljs/sqlstring`.
 I just changed the variables `CHARS_GLOBAL_REGEXP` and `CHARS_ESCAPE_MAP` in file `mysqljs/sqlstring/lib/SqlString.js`
 to let the project fitting to SQLite.
 
+## Install
+
+```sh
+$ npm install sqlstring-sqlite
+```
+
 NOTE: Unit test is not changed, so the tests won't pass.
 
 Following is the origin README.md of `mysqljs/sqlstring`
